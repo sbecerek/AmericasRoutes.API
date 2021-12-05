@@ -1,0 +1,14 @@
+C:\Users\suhey\Desktop\Route.API\Route.API\obj\Docker\publish\Route.API.exe
+C:\Users\suhey\Desktop\Route.API\Route.API\obj\Docker\publish\appsettings.Development.json
+C:\Users\suhey\Desktop\Route.API\Route.API\obj\Docker\publish\appsettings.json
+C:\Users\suhey\Desktop\Route.API\Route.API\obj\Docker\publish\Route.API.dll
+C:\Users\suhey\Desktop\Route.API\Route.API\obj\Docker\publish\Route.API.deps.json
+C:\Users\suhey\Desktop\Route.API\Route.API\obj\Docker\publish\Route.API.runtimeconfig.json
+C:\Users\suhey\Desktop\Route.API\Route.API\obj\Docker\publish\Route.API.pdb
+C:\Users\suhey\Desktop\Route.API\Route.API\obj\Docker\publish\Gremlin.Net.dll
+C:\Users\suhey\Desktop\Route.API\Route.API\obj\Docker\publish\Microsoft.OpenApi.dll
+C:\Users\suhey\Desktop\Route.API\Route.API\obj\Docker\publish\Newtonsoft.Json.dll
+C:\Users\suhey\Desktop\Route.API\Route.API\obj\Docker\publish\Polly.dll
+C:\Users\suhey\Desktop\Route.API\Route.API\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\suhey\Desktop\Route.API\Route.API\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\suhey\Desktop\Route.API\Route.API\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
